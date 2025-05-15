@@ -1,0 +1,1 @@
+# Adapta-o-do-C-lculo-de-Consumo-com-Base-em-Dias-de-Uso
